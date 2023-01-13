@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisa Haxel</title>
+    <link>http://lisahaxel.org/</link>
+    <description>Recent content on Lisa Haxel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 12 Jan 2023 16:08:20 +0100</lastBuildDate><atom:link href="http://lisahaxel.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://lisahaxel.org/posts/my-first-post/</link>
+      <pubDate>Thu, 12 Jan 2023 16:08:20 +0100</pubDate>
+      
+      <guid>http://lisahaxel.org/posts/my-first-post/</guid>
+      <description>Introduction Hello world! This is my first post.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://lisahaxel.org/research/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://lisahaxel.org/research/</guid>
+      <description>Pre-registrations .. [1] Haxel, L., Meier, M., &amp;amp; Pruessner, J. C. (2022, August 17). Sweet Relaxation: The Impact of Anxiety and Glucose on Cardiac Autonomic Reactivity to Paced Breathing. https://doi.org/10.17605/OSF.IO/JYS5K
+.. [2] Haxel, L., Meier, M., &amp;amp; Pruessner, J. C. (2022, July 07). Sweet Touch: The Effects of Glucose and Massage on Cardiac Autonomic Function and Prefrontal Cerebral Blood Flow: A Neurovisceral Integration Perspective. https://doi.org/10.17605/OSF.IO/AP27Q
+Publications </description>
+    </item>
+    
+  </channel>
+</rss>
